@@ -1,0 +1,23 @@
+.logo {
+    position: fixed;
+    left: 50%;
+    top: 25%;
+    /* for margin values, half px top/left
+        note: logo is 272x92 px. */
+    margin-left: -136px;
+    margin-top: -46px;
+}
+.background_main {
+    background-color: white;
+}
+.nav1 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.nav2 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
