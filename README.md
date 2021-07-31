@@ -1,0 +1,1 @@
+Hello, this is one of the first projects I will be attempting on direction from The Odin Project. I believe the purpose of this project is to reconstuct the google homepage through the use of developer tools found within the browser itself. 
