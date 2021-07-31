@@ -14,11 +14,21 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
-    display: inline;
 }
 .nav2 {
     list-style-type: none;
     padding: 0;
     margin: 0;
+}
+.nav3 {
+
+}
+.nav4 {
+
+}
+li {
     display: inline;
+}
+.footer_color {
+    background-color: lightgray;
 }
